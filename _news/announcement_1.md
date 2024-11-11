@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-04
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Achieved a certification in Machine Learning in Production from DeepLearning.AI. See the certificate [here] (https://www.coursera.org/account/accomplishments/verify/9WDI4V0566FK).
